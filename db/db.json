@@ -1,0 +1,30 @@
+{
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Finalizado"
+    }
+  ],
+  "carros": [
+    {
+      "nome": "Alan teste1",
+      "nomeCarro": "Hilux",
+      "placaCarro": "MSC2845",
+      "hora": "15:30",
+      "status": "Finalizado",
+      "id": 1
+    },
+    {
+      "nome": "Joao Augusto",
+      "nomeCarro": "Gol",
+      "placaCarro": "PUE7845",
+      "hora": "17:10",
+      "status": "Finalizado",
+      "id": 2
+    }
+  ]
+}
